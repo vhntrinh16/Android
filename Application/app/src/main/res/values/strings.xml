@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="txt_name">Tên:</string>
+    <string name="txt_name1">Số điện thoại: </string>
+    <string name="txt_name2">Địa chỉ: </string>
+    <string name="txt_name3">T.Phố: </string>
+    <string name="btn_addContact">Add Number</string>
+</resources>
